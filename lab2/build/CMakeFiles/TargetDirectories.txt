@@ -1,0 +1,5 @@
+D:/Универ/ОС/OS_lab2/build/CMakeFiles/OS_lab2.dir
+D:/Универ/ОС/OS_lab2/build/CMakeFiles/MinMaxTest.dir
+D:/Универ/ОС/OS_lab2/build/CMakeFiles/RUN_TESTS.dir
+D:/Универ/ОС/OS_lab2/build/CMakeFiles/ALL_BUILD.dir
+D:/Универ/ОС/OS_lab2/build/CMakeFiles/ZERO_CHECK.dir

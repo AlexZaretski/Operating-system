@@ -1,0 +1,3 @@
+D:/Универ/ОС/OS_lab2/out/build/x64-debug/CMakeFiles/OS_lab2.dir
+D:/Универ/ОС/OS_lab2/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Универ/ОС/OS_lab2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
