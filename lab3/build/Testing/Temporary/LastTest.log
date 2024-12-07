@@ -1,0 +1,19 @@
+Start testing: Dec 07 03:19 RTZ 2 (зима)
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/1 Testing: Lab3Test
+1/1 Test: Lab3Test
+Command: "NOT_AVAILABLE"
+Directory: D:/Operating-system/lab3/build
+"Lab3Test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Lab3Test" end time: Dec 07 03:19 RTZ 2 (зима)
+"Lab3Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 07 03:19 RTZ 2 (зима)
