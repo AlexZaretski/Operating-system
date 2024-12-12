@@ -1,0 +1,10 @@
+^D:\OPERATING-SYSTEM\LAB4\BUILD\CMAKEFILES\0E099CC4B8BEA0A7A7A3E008FBFEADDA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Operating-system/lab4 -BD:/Operating-system/lab4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Operating-system/lab4/build/SenderReceiver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
