@@ -1,3 +1,0 @@
-D:/Operating-system/lab4/out/build/x64-debug/CMakeFiles/lab4.dir
-D:/Operating-system/lab4/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/Operating-system/lab4/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
