@@ -1,5 +1,0 @@
-D:/Operating-system/lab4/build/CMakeFiles/receiver.dir
-D:/Operating-system/lab4/build/CMakeFiles/sender.dir
-D:/Operating-system/lab4/build/CMakeFiles/tests.dir
-D:/Operating-system/lab4/build/CMakeFiles/ALL_BUILD.dir
-D:/Operating-system/lab4/build/CMakeFiles/ZERO_CHECK.dir
