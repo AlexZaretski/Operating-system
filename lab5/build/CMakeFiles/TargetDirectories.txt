@@ -1,5 +1,0 @@
-D:/Operating-system/lab5/build/CMakeFiles/client.dir
-D:/Operating-system/lab5/build/CMakeFiles/server.dir
-D:/Operating-system/lab5/build/CMakeFiles/tests.dir
-D:/Operating-system/lab5/build/CMakeFiles/ALL_BUILD.dir
-D:/Operating-system/lab5/build/CMakeFiles/ZERO_CHECK.dir
